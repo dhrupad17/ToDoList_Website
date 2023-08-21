@@ -1,5 +1,5 @@
 # ✒️📙TODOList Website🖊️📃
-#### 🌎 his is a webpage made to list out what works needs to be done using `HTML`(🛠️), `CSS`(🎨) & `Javascript`(🧠)
+#### 🌎 This is a webpage made to list out what works needs to be done using `HTML`(🛠️), `CSS`(🎨) & `Javascript`(🧠)
 
 ### `Click The Link to Check My Webstite` 👉 : [Click Here](https://dhrupad-todolist.netlify.app/)
 ![alt](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
